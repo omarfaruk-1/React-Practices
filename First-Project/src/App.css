@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.btn{
+  padding: 8px;
+  border-radius: 3px;
+  margin: 10px;
+  font-size: large;
+  color: whitesmoke;
+  background-color: blue;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+}
+div p:first-child{
+  color: rgb(7, 145, 0);
+  font-size: 20px;
+}
